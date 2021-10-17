@@ -10,4 +10,5 @@ var data=0;
             if(data>0)
             data=data-1;
             document.getElementById("counting").innerText=data;
+
         }
